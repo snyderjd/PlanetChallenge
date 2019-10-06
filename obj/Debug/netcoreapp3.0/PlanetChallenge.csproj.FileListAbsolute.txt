@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/bin/Debug/netcoreapp3.0/PlanetChallenge.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/obj/Debug/netcoreapp3.0/PlanetChallenge.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/obj/Debug/netcoreapp3.0/PlanetChallenge.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/obj/Debug/netcoreapp3.0/PlanetChallenge.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/obj/Debug/netcoreapp3.0/PlanetChallenge.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/PlanetChallenge/obj/Debug/netcoreapp3.0/PlanetChallenge.pdb
